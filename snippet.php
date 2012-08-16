@@ -12,7 +12,7 @@
  *
  */
 
-    //  We prepare a variable to hold arrays with post titles so we don't accidentally make duplicates, that owuld be bad
+    //  We prepare a variable to hold arrays with post titles so we don't accidentally make duplicates, that would be bad
     $slug_done = array();
 
     //  Run a query to grab all the posts, we only want posts/pages though
