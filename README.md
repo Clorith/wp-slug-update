@@ -20,3 +20,6 @@ Disclaimer
 This snippet is provided AS  IS, no responsibility is taken for any mishaps to your site by the use of this code.
 
 Remember to always back up your database before running custom code against it.
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/Clorith/wp-slug-update/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
